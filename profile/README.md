@@ -1,4 +1,7 @@
-## Hi there 👋
+## Useful Resources
+ELO IX Java Docs            - https://forum.elo.com/javadoc/ix/23/index.html
+ELO AS Java Docs            - https://forum.elo.com/javadoc/as/23/index.html
+ELO Business Solutions Docs - https://supportweb.elo.com/en-us/business-solutions.html
 
 <!--
 
