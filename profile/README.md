@@ -9,6 +9,8 @@ https://forum.elo.com/javadoc/ix/23/index.html\
 https://forum.elo.com/javadoc/as/23/index.html\
 ### ELO Business Solutions Docs
 https://supportweb.elo.com/en-us/business-solutions.html
+### Deploy Procedure SINA
+https://eloro1-my.sharepoint.com/:w:/g/personal/mihai_p_elodev_ro/EfO3f0s1fSJKovScGVhN8NoBR7nvhRslRzvcRpvsMW6n4w?rtime=qNU_5RxT3Eg
 
 <!--
 
